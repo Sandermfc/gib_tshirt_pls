@@ -23,6 +23,5 @@ def main():
     print(recursive_palindrome(str.lower()))
     print(is_palindrome(str.lower()))
 
-
 if __name__ == '__main__':
     main()
