@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-def fizz_buzz(num):
+def gimme_shirtz(num):
     if num % 15 == 0:
         print("GimmeShirt")
     elif num % 5 == 0:
@@ -11,4 +11,4 @@ def fizz_buzz(num):
         print(num)
 
 for i in range(1, 101):
-    fizz_buzz(i)
+    gimme_shirtz(i)
